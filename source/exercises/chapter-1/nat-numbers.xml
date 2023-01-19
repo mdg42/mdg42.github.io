@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+    <exercise exercise-customization="inline" exercise-interactive="static">
+        <title>Natural Numbers</title>
+            <introduction>
+    	        <p>Test your understanding by answering the following question on Natural numbers.</p>
+            </introduction><myopenmath problem="1098538" />
+	</exercise>

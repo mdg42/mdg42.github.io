@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<reading-questions xml:id="reading-q-natural-1">
+<title>Questions for Review</title>
+        <introduction>
+            <p>
+                Testing end of chapter questions.
+            </p>
+        </introduction>
+
+        <exercise number="1">
+            <statement>
+
+            <exercise exercise-customization="inline" exercise-interactive="static"><title>Explicit Base-10 Expansion</title><introduction>
+    	<p>Use your knowledge of place-value to explicitly write the integer
+		as the sum of its base-10 components.
+    	</p>
+    </introduction><myopenmath problem="1098538" />
+	</exercise>
+            </statement>
+            
+        </exercise>
+
+        </reading-questions>

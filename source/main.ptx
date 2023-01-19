@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<pretext xmlns:xi="http://www.w3.org/2001/XInclude">
+  <docinfo>
+    <brandlogo url="www.snhu.edu" source="images/snhu.png" />
+    <images>
+      <archive>eps pdf png svg tex</archive>
+    </images>
+    <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
+  </docinfo>
+  
+  <book xml:id="snhu-math-book" xml:lang="en-US">
+    <title>SNHU Math Review</title>
+      <xi:include href="./frontmatter.xml" /> 
+      
+
+            <xi:include href="./chapter-1.xml" />
+            <xi:include href="./chapter-2.xml" />
+            <xi:include href="./chapter-3.xml" />
+            <xi:include href="./chapter-4.xml" />
+            <xi:include href="./chapter-5.xml" />
+            <xi:include href="./chapter-6.xml" />
+            <xi:include href="./chapter-7.xml" />
+            <xi:include href="./chapter-8.xml" />
+      
+
+  </book>
+</pretext>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<frontmatter xml:id="frontmatter" xmlns:xi="http://www.w3.org/2001/XInclude">
+    <colophon>
+        <p>Some text here</p>
+    </colophon>
+    <acknowledgement>
+        <p>This review was heavily influenced by the work of OpenStax in making mathematics available to all learners</p>
+    </acknowledgement>
+    <preface xml:id="preface">
+
+        <p>This resource is intended to support SNHU students who wish to review material that they may need
+        prior to taking their first mathematics course. This material is not a replacement for a textbook, but serves
+        as a guide for reviewing key ideas. You may find it helpful to also consult material such as OpenStax for additional
+        guidance. Beyond the text itself, this resource includes several options for you to interact with and explore mathematics 
+        to gain a strong conceptual understanding. Therefore, you will see that there are more exercises and opportunities for
+        interaction than text. For more guidance, please see the section below on how to use this book.</p>
+
+        <p>How to Use This Book:</p>
+        <p>Begin by reading the text, stopping peridoically to try to explain the ideas in your own words without looking.
+        This form of "active recall" is important for retaining these ideas. When you arrive at an example problem, try to 
+        work it out yourself prior to showing the solution. If you are correct, confirm that your process aligns with the 
+        explanation provided. If you are incorrect, see if you can work out where the mistake occurred and what may have 
+        caused to you to make this error. You have likely heard it said that mistakes are how we learn, and it is important
+        that we actively seek to learn from these mistakes through examining our work. Exercises provide slightly less structure
+        for solutions compared to the examples. </p>
+    </preface>
+      </frontmatter>

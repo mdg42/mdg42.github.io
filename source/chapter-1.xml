@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<chapter xml:id="number-types" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Number Types</title>
+
+  <section xml:id="natural-numbers">
+    <title>The Natural Numbers and Sets</title>
+
+    <p>
+      When we first learn to count, we begin in the natural way of doing so, starting with <m>1</m>, then <m>2</m>, and so forth.
+      These numbers are referred to as the Natural numbers or counting numbers. In some cases, <m>0</m> is included in the Natural numbers,
+      and other times its inclusion is called the Whole numbers. In mathematics, we refer to this collection of things as a set. The items 
+      within the set are called elements or members. For example, we could say that <m>5</m> is an element of the set of Natural numbers.</p>
+
+    <p>
+      To write small sets, we use curly braces. For example, we could write a set of Natural numbers as <m>\{1, 2, 5, 7\}</m>. While this works
+      well for small sets, clearly we cannot write all the Natural numbers this way. Additionally, writing "the Natural numbers" would prove 
+      difficult in many contexts where they are used, so we use the symbol <m>\mathbb{N}</m> to represent the set of Natural numbers.
+    </p>
+    <xi:include href="./exercises/chapter-1/nat-numbers.xml" />
+    
+  </section>
+
+  <section xml:id="integers">
+    <title>Integers</title>
+    <p>
+      With the Natural numbers defined, we can think of extending the set to include negative numbers with no decimal or fractional
+      component. Examples include <m>-8</m>, <m>-759</m>, and <m>42</m> (also a Natural number). We write the set of all integers as
+      <m>\mathbb{Z}</m>. Notice how all the Natural numbers are also integers. We say that the Natural numbers are a subset of the 
+      integers, since every Natural number is also an integer.
+    </p>
+    <xi:include href="./exercises/chapter-1/integers.xml" />
+  </section>
+
+  <section xml:id="rational">
+    <title>Rational Numbers</title>
+    <p>
+        More text here
+    </p>
+  </section>
+
+  <section xml:id="reals">
+    <title>Real Numbers</title>
+    <p>
+        More text here
+    </p>
+  </section>
+<section xml:id="chapter-1-exercises">
+<title>Chapter 1 Review Exercises</title>
+<xi:include href="./exercises/exercises-chapter-1.xml" />
+</section>
+</chapter>
