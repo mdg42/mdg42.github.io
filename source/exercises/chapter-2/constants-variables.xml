@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+    <exercise exercise-customization="inline" exercise-interactive="static">
+        <title>Constants and Variables</title>
+            <introduction>
+    	        <p>Test your understanding by answering the following question on constants and variables.</p>
+            </introduction><myopenmath problem="1099261" />
+	</exercise>

@@ -4,6 +4,7 @@
     <!-- HTML-Specific Options -->
     <html>
         <css style="default" colors="blue_red"/>
+        <knowl remark="no" example="no" proof="yes" exercise-inline="no"/>    
     </html>
 
 </publication>

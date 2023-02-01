@@ -2,9 +2,39 @@
 
 <chapter xml:id="definitions" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Towards a Common Language</title>
+  <introduction>
+    <p>A common phrase when learning mathematics is that it is a language. In order to understand
+    any subject, you must become comfortable with the shared terminology of that subject area. 
+    For instance, in computer science, the words "branching" or "loop" have specific meanings that
+    are important to understand. The same thing is true in mathematics. In this section, we will 
+    review some common terminology. If you are comfortable with these ideas, you may wish to skim
+    this section or refer back to it as needed.</p>
+  </introduction>
 
   <section xml:id="variables-constants">
     <title>Variables and Constants</title>
+    <p>When first learning mathematics, we focus on constants or numbers that do not change. For instance, you may have <m>2</m> assignments due in a week, where <m>2</m> is a constant. Even values that we think of as changing, such as speed, can be constants. For instance, you may drive a car at a constant speed of <m>50</m> miles per hour (mph). In this instance, the value of <m>50</m> is a constant since it is not changing.</p>
+
+    <p>A variable is a symbol that we use to represent an unknown quantity. For instance, you may not know how long each of your assignments may take to complete. Since this value is unknown, it can be represented as a variable such as <m>x</m>. It is common to use single letters (sometimes including letters from another alphabet such as <m>\theta</m>) for simplicity.</p>
+
+    <p>A common frustration when learning mathematics is the inclusion of variables (written as letters) and what their role is in learning mathematics. The important idea here is that there are some quantities that we cannot know or that may change. We would still like to be able to explore these ideas and model real-world phenomenon where not everything we are interested in is constant. For instance, consider the scenerio where a student is planning their time to read a mathematics textbook (perhaps an online review text). The student knows that the time it takes to read each section is fairly constant at <m>20</m> minutes per section. Each week, the student needs to read a different number of sections. In this example, the time to read a section is the constant (<m>20</m> minutes), while the number of sections to read is a variable as it changes each week. By representing the number of sections as a variable, it is easy to calculate the time required to read any number of sections by changing the value of this variable. If we wanted to see the possible values in a certain range (say 2 sections per week to 20 sections per week), we could put these values in a table or a graph, which we will discuss in a later chapter.</p>
+
+    <p>
+    In summary, constants allow us to represent unchanging quantities, while variables allow us to model quantities that may change. 
+    </p>
+
+    <xi:include href="./exercises/chapter-2/constants-variables.xml" />
+  </section>
+
+  <section xml:id="expressions-equations-inequalities">
+    <title>Expressions, Equations, and Inequalities</title>
     <p>Text</p>
-    </section>
+  </section>
+
+  <section xml:id="solve-eval-simplify">
+    <title>Solving, Evaluating, and Simplifying</title>
+    <p>Text</p>
+  </section>
+    
+    
     </chapter>

@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <pretext xmlns:xi="http://www.w3.org/2001/XInclude">
   <docinfo>
-    <brandlogo url="www.snhu.edu" source="images/snhu.png" />
+    <!--Y<brandlogo url="www.snhu.edu" source="images/snhu.png" />-->
     <images>
       <archive>eps pdf png svg tex</archive>
     </images>
@@ -9,7 +9,7 @@
   </docinfo>
   
   <book xml:id="snhu-math-book" xml:lang="en-US">
-    <title>SNHU Math Review</title>
+    <title>Mark's Math Review</title>
       <xi:include href="./frontmatter.xml" /> 
       
 

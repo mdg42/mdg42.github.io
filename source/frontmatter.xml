@@ -4,7 +4,8 @@
         <p>Some text here</p>
     </colophon>
     <acknowledgement>
-        <p>This review was heavily influenced by the work of OpenStax in making mathematics available to all learners</p>
+        <p>This review was heavily influenced by the work of OpenStax in making mathematics 
+        available to all learners.</p>
     </acknowledgement>
     <preface xml:id="preface">
 
